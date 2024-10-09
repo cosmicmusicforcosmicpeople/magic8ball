@@ -1,4 +1,10 @@
-# magic8ball
-Magic 8 Ball Project
+# Magic8Ball 🔮
 
-I worked on this side project to showcase what I have learned in my software development bootcamp at Tech Elevator.
+Follow the instructions in the .java file to create a Java program to predict a user's future 🔮
+
+## Variations and Enhancements
+
+* Change magic 8-ball to magic obelsik (or anything else creative)
+* Keyword/name recognition
+* Memory of past questions
+* Expanding to handle more than yes/non questions
