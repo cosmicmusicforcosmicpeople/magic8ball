@@ -1,3 +1,3 @@
 # Magic8Ball 🔮
-
-This is a side project that I worked on while in my Bootcamp at Tech Elevator. Enjoy!
+i
+This is a finished application that I worked on, during my bootcamp with Tech Elevator. Enjoy!
